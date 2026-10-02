@@ -2,6 +2,8 @@
 
 > ⚠️ **Vibe Coded** — written by an AI agent working from a human's direction. It is used in a shipping game and covered by tests, but it has had no line-by-line human audit. Read it before you trust it.
 
+> **Archived 2026-09-04 — this crate is now [`bevy_carnage::viscera`](https://github.com/Ladvien/bevy_carnage).** Depend on `bevy_carnage` and import from `bevy_carnage::viscera`. Every version on crates.io is yanked; a lockfile that pins one still builds. This repository no longer mirrors anything: `crates/bevy_viscera/` was removed from [`Ladvien/foundation_vs_slop`](https://github.com/Ladvien/foundation_vs_slop) when the crate became a module.
+
 XPBD Cosserat-style strands with a tearing mesenteric membrane: guts that spill out of a wound, fall with weight, coil on the floor, stay tethered by the mesentery, and then tear loose from it.
 
 > **This repo is a read-only mirror.** It is split out of [`Ladvien/foundation_vs_slop`](https://github.com/Ladvien/foundation_vs_slop) with `git subtree split`, history intact. Issues and PRs belong upstream.
